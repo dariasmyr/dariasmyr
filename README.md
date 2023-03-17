@@ -1,6 +1,6 @@
 # CV Daria Smyr
 
-Hi there! 👋 I'm a software developer with experience in data analysis and visualization. In my free time, I enjoy
+Hi there! 👋 I'm a software developer with experience in data analysis and visualization. I also enjoy
 working with Node.js and TypeScript for back-end development and Python for data analysis.
 
 ## ☎️ Contact information
