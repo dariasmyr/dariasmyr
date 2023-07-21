@@ -27,27 +27,27 @@ working with Node.js and TypeScript.Sure! I have a strong background in developi
 
 - <strong>Responsibilities:</strong>
 
-- Creating a REST interface for application interaction with PostgreSQL database.
-- Developing intermediate business logic layer with microservers.
-- Converting large CSV product catalog files.
-- Transferring a part of the Get Outfit application's clothing recommendation functionality to the server.
+Creating a REST interface for application interaction with PostgreSQL database.
+Developing intermediate business logic layer with microservers.
+Converting large CSV product catalog files.
+Transferring a part of the Get Outfit application's clothing recommendation functionality to the server.
 
 - <strong>Milestones:</strong>
 
-- Created  a NestJS Reccommendations server for processing AI messages and providing a list of recommended items from the database (with REST API support)
-- Moved a part of app’s functionality to the server using a system of micro-services
-- Created a REST / PostgREST interface for application interaction with microservers (dev PostgreSQL databases) + implemented functionality to update, sync, and setup dev micro-services with prod server
-- Configured Nginx as a reverse proxy in a docker container to manage traffic to multiple micro-services
+Created  a NestJS Reccommendations server for processing AI messages and providing a list of recommended items from the database (with REST API support)
+Moved a part of app’s functionality to the server using a system of micro-services
+Created a REST / PostgREST interface for application interaction with microservers (dev PostgreSQL databases) + implemented functionality to update, sync, and setup dev micro-services with prod server
+Configured Nginx as a reverse proxy in a docker container to manage traffic to multiple micro-services
 
 - <strong>Stack:</strong>
 
-- Node.js
-- Nginx
-- PostgreSQL
-- Docker
-- Shell scripting (awk, bash, grep, etc.)
--  Python
-- Git
+Node.js
+Nginx
+PostgreSQL
+Docker
+Shell scripting (awk, bash, grep, etc.)
+Python
+Git
 
 
 ## Backend Developer
@@ -56,24 +56,24 @@ working with Node.js and TypeScript.Sure! I have a strong background in developi
 
 - <strong>Responsibilities:</strong>
 
-- Developing APIs using Node.js, TypeScript, NestJS, Prisma, and PostgreSQL.
-- Documenting APIs using Swagger.
-- Creating project infrastructure, configured Jest, DB schema, and logger.
-- Refactoring code, improved logger, and fixed bugs.
-- Adding new functionality such as dynamic routes in API response, day number in year, sun position calculation, and more.
-- Developing  Solar API with features such as return time by IP, time formatting service, and /time query API.
-- Creating a database schema, added the ability to add owners for devices, grouping devices, recording activity, and more.
-- Developing a module for updates and caching mechanisms to improve performance.
-- Working with tariffs and currency within the project.
+Developing APIs using Node.js, TypeScript, NestJS, Prisma, and PostgreSQL.
+Documenting APIs using Swagger.
+Creating project infrastructure, configured Jest, DB schema, and logger.
+Refactoring code, improved logger, and fixed bugs.
+Adding new functionality such as dynamic routes in API response, day number in year, sun position calculation, and more.
+Developing  Solar API with features such as return time by IP, time formatting service, and /time query API.
+Creating a database schema, added the ability to add owners for devices, grouping devices, recording activity, and more.
+Developing a module for updates and caching mechanisms to improve performance.
+Working with tariffs and currency within the project.
 
 - <strong>Stack:</strong>
 
-- Node.js
-- TypeScript
-- NestJS
-- Prisma
-- PostgreSQL
-- Swagger
+Node.js
+TypeScript
+NestJS
+Prisma
+PostgreSQL
+Swagger
 
 
 ## Data Analyst
