@@ -1,7 +1,7 @@
 # CV Daria Smyr
 
-Hi there! 👋 I'm a software developer with passion for server-side development and experience in data analysis. I enjoy
-working with Node.js and TypeScript.Sure! I have a strong background in developing REST APIs, working with databases, and implementing scalable solutions ang algorithms. Looking for new challenges!
+Hi there! 👋 I'm a **software developer** with passion for **server-side development** and experience in data analysis. I enjoy
+working with **Node.js** and **TypeScript**. Sure! I have a strong background in **developing REST APIs**, working with **databases**, and implementing **scalable solutions and algorithms**. Looking for new challenges!
 
 ## ☎️ Contact information
 
@@ -143,21 +143,24 @@ EDA). It also provides visualizations to better understand the data and a machin
 
 ## `🚩` Software Development
 
-- Node.js (JS + Typescript), Express, Axios frameworks;
-- Relational and non-relational databases (SQLite, Postgres, NeDB);
-- Unit testing (Jest), code quality (ESLint), ORM tools (Prisma, Sequelize);
-- API development and testing (Postman, Insomnia);
-- Basic Pandas (Python) data visualisation;
-- Basic Machine Learning tools (Ski-learn);
-- OpenAI API integration;
-- Telegram bot development (Telegraf).
+- **Node.js** (**JS** + **Typescript**) - core; **Python** - as a hobby;
+- Server-side development: **Express**, **Axious** frameworks;
+- Highly experienced in **relational** and **non-relational** databases (SQLite, **Postgres**, NeDB);
+- Used No-SQL (**Redis**) for **task queue handlers** (Bull jobs) and **server-side cashing**
+- Use **Jest** for **unit testing** and **ESLint**, **Prettier** for code quality, ORM tools - **Prisma**, Sequelize;
+- Experienced in **REST/GraphQL** API development (+PostgREST);
+- Use basic **terminal commands** and implement **Bash** scripts;
+- Managed highly complicated **Docker** containerization network;
+- Basic knowledge of **Pandas (Python)** for **data analysis** and **data visualisation**;
+- Experienced in promptiong and **OpenAI API integration**;
+- **Telegram bot** development (**Telegraf**).
 
-## `🚩` System Analytics
+## `🚩` Software Design & Architecture
 
-- Diagrams (Use-case and Sequence Diagram), Plant UML for software design.
-- Research into OAuth2 flow for user authentication and authorization.
-- RBAC and ABAC access control models.
-- Implementing web communication by HTTP protocol (REST).
+- Experienced in implementing **Database Normalisation Forms**
+- Bult a **server side logic** & realisation for **user authentication and authorization** (**sessions**, **OAuth2.0**, **JWT**)
+- Understand the value of End-to-End Protocols (**TCP\IP**), **FTP**, **RRP**, **Socket API**
+- Implementing **web communication** by **HTTP** protocol (**REST**).
 
 ---
 
