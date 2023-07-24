@@ -102,13 +102,19 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ---
 
-## 🛠 Projects
+## 🛠 Pet-Projects
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
-### <a href="https://gitlab.com/daria_smyr/uptime-monitor/-/tree/typescript" target="_new">Uptime Monitor</a>
+### <a href="https://gitlab.com/daria_smyr/mock-server" target="_new">Uptime Monitor</a>
 
-Core libraries and techniques: TypeScript, Express, Axios, Prisma JS, SQLite, Jest, Eslint, Telegraf
+Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
+
+The Mock Server is a lightweight and autonomous NestJS tool that dynamically generates mock GraphQL servers based on GraphQL data schemas. It is designed to simplify the process of creating mock servers for development and testing purposes.
+
+### <a href="https://gitlab.com/daria_smyr/uptime-monitor" target="_new">Uptime Monitor</a>
+
+Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
 This TypeScript-based tool is used to monitor the uptime of websites and can check the site status by HTTP, ping, SSL
 certificate, and health check. It uses Prisma ORM to work with the database and can send notifications to a Telegram
@@ -116,7 +122,7 @@ chat.
 
 ### <a href="https://gitlab.com/daria_smyr/data-analytics-template" target="_new">Data Analytics Template</a>
 
-Core libraries and techniques: TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint
+Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint
 
 This template provides a quick and easy solution for connecting to NeDB database, operating with data through separate
 modules, and saving results with Prisma ORM. The template is written in TypeScript and includes a logger service and
@@ -151,7 +157,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 - Diagrams (Use-case and Sequence Diagram), Plant UML for software design.
 - Research into OAuth2 flow for user authentication and authorization.
 - RBAC and ABAC access control models.
-- Implementing web communication by HTTP protocol.
+- Implementing web communication by HTTP protocol (REST).
 
 ---
 
@@ -159,7 +165,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 
 ### English 🇺🇸
 
-B2 First – Score 181, Cambridge University Press & Assessment English. Issued Aug 2019.
+LEVEL C1 (Exam "B2 First") – Score 181, Cambridge University Press & Assessment English. Issued Aug 2019.
 
 ### Russian
 
