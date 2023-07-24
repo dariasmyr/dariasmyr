@@ -168,7 +168,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 
 ### English 🇺🇸
 
-LEVEL C1 (Exam "B2 First") – Score 181, Cambridge University Press & Assessment English. Issued Aug 2019.
+**LEVEL C1** (Exam "B2 First") – Score **181**, Cambridge University Press & Assessment English. Issued Aug 2019.
 
 ### Russian
 
