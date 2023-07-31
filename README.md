@@ -112,7 +112,7 @@ Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
 The Mock Server is a lightweight and autonomous NestJS tool that dynamically generates mock GraphQL servers based on GraphQL data schemas. It is designed to simplify the process of creating mock servers for development and testing purposes.
 
-### <a href="https://gitlab.com/daria_smyr/uptime-monitor" target="_new">Uptime Monitor</a>
+### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
 
 Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
@@ -120,7 +120,7 @@ This TypeScript-based tool is used to monitor the uptime of websites and can che
 certificate, and health check. It uses Prisma ORM to work with the database and can send notifications to a Telegram
 chat.
 
-### <a href="https://gitlab.com/daria_smyr/data-analytics-template" target="_new">Data Analytics Template</a>
+### <a href="https://github.com/dariasmyr/data-analytics-template" target="_new">Data Analytics Template</a>
 
 Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint
 
