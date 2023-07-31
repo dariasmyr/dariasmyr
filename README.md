@@ -106,7 +106,7 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
-### <a href="https://gitlab.com/daria_smyr/mock-server" target="_new">Mock Server</a>
+### <a href="https://github.com/dariasmyr/mock-server" target="_new">Mock Server</a>
 
 Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
