@@ -34,14 +34,14 @@ working with **Node.js** and **TypeScript**. Sure! I have a strong background in
 
 ### Milestones
 
-- Created  a NestJS Reccommendations server for processing AI messages and providing a list of recommended items from the database (with REST API support)
+- Created  a NestJS Reccommendations server for processing AI messages and providing a list of recommended items from the database (with REST API support and auto-generated Swagger documentation)
 - Moved a part of app’s functionality to the server using a system of micro-services
 - Created a REST / PostgREST interface for application interaction with microservers (dev PostgreSQL databases) + implemented functionality to update, sync, and setup dev micro-services with prod server
 - Configured Nginx as a reverse proxy in a docker container to manage traffic to multiple micro-services
 
 ### Stack
 
-Node.js, Nginx, PostgreSQL, Docker, Shell scripting (awk, bash, grep, etc.), Python, Git
+Node.js, Nginx, PostgreSQL, Docker, Swagger, Shell scripting, Python, Git
 
 
 ## Backend Developer
@@ -146,8 +146,10 @@ EDA). It also provides visualizations to better understand the data and a machin
 - **Node.js** (**JS** + **Typescript**) - core; **Python** - as a hobby;
 - Server-side development: **Express**, **Axious** frameworks;
 - Highly experienced in **relational** and **non-relational** databases (SQLite, **Postgres**, NeDB);
+- Used several ORM tools - **Prisma**, Sequelize abd query-builders (like *Kysely*);
+- Can set-up auto-generated API documentation (like **Swagger**);
 - Used No-SQL (**Redis**) for **task queue handlers** (Bull jobs) and **server-side cashing**
-- Use **Jest** for **unit testing** and **ESLint**, **Prettier** for code quality, ORM tools - **Prisma**, Sequelize;
+- Use **Jest** for **unit testing** and **ESLint**, **Prettier** for code quality;
 - Experienced in **REST/GraphQL** API development (+PostgREST);
 - Use basic **terminal commands** and implement **Bash** scripts;
 - Managed highly complicated **Docker** containerization network;
