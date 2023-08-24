@@ -6,6 +6,7 @@ working with **Node.js** and **TypeScript**. Sure! I have a strong background in
 ## ☎️ Contact information 
 
 Telegram
+
 <a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
 
 📧 Email address
