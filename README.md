@@ -3,7 +3,10 @@
 Hi there! 👋 I'm a **software developer** with passion for **server-side development** and experience in data analysis. I enjoy
 working with **Node.js** and **TypeScript**. Sure! I have a strong background in **developing web APIs (REST, GraphQL)**, working with both **relational (PostgreSQL, SQLite) and non-relational (Redis, NoDB) databases**, and implementing **scalable solutions and algorithms**. Looking for new challenges!
 
-## ☎️ Contact information
+## ☎️ Contact information 
+
+Telegram
+<a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
 
 📧 Email address
 
@@ -106,6 +109,13 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
+### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
+
+Core libraries and techniques: Docker, Nginx
+
+This repo contains the necessary files to create a reverse proxy using Nginx in a Docker environment. The reverse proxy enables routing of HTTPS connections and utilizes Let's Encrypt certificates to ensure security.
+
+
 ### <a href="https://github.com/dariasmyr/mock-server" target="_new">Mock Server</a>
 
 Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
@@ -145,6 +155,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 
 - **Node.js** (**JS** + **Typescript**) - core; **Python** - as a hobby;
 - Server-side development: **Express**, **Axious** frameworks;
+- Reverse proxy pattern (**Nginx**)
 - Highly experienced in **relational** and **non-relational** databases (SQLite, **Postgres**, NeDB);
 - Used several ORM tools - **Prisma**, Sequelize abd query-builders (like *Kysely*);
 - Can set-up auto-generated API documentation (like **Swagger**);
@@ -160,7 +171,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 ## `🚩` Software Design & Architecture
 
 - Experienced in implementing **Database Normalisation Forms**
-- Bult a **server side logic** & realisation for **user authentication and authorization** (**sessions**, **OAuth2.0**, **JWT**)
+- Bult a **server side logic** & realisation for **user authentication and authorization** (**session-based**, **OAuth2.0**, **JWT**)
 - Understand the value of End-to-End Protocols (**TCP\IP**), **FTP**, **RRP**, **Socket API**
 - Implementing **web communication** by **HTTP** protocol (**REST**).
 
