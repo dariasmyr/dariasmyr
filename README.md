@@ -110,6 +110,13 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
+###Summary Bot (whitelabel)
+
+Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
+
+This Telegram bot is designed to scrape Telegram channels of your choice and send all incoming messages to your personal channel or chat. Additionally, it can generate summarized versions of each post using AI, saving you time!
+
+
 ### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
 
 Core libraries and techniques: Docker, Nginx
@@ -127,8 +134,8 @@ The Mock Server is a lightweight and autonomous NestJS tool that dynamically gen
 
 Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
-This TypeScript-based tool is used to monitor the uptime of websites and can check the site status by HTTP, ping, SSL
-certificate, and health check. It uses Prisma ORM to work with the database and can send notifications to a Telegram
+This TypeScript-based tool to monitor the uptime of websites and check the site status by HTTP, ping, SSL
+certificate, and health check. Uptime Monitor uses Prisma ORM to work with the database and can send notifications to a Telegram
 chat.
 
 ### <a href="https://github.com/dariasmyr/data-analytics-template" target="_new">Data Analytics Template</a>
