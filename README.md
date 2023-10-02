@@ -110,7 +110,7 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
-###Summary Bot (whitelabel)
+### Summary Bot (whitelabel)
 
 Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
 
