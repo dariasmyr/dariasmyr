@@ -179,7 +179,7 @@ EDA). It also provides visualizations to better understand the data and a machin
 ## `🚩` Software Design & Architecture
 
 - Experienced in implementing **Database Normalisation Forms**
-- Bult a **server side logic** & realisation for **user authentication and authorization** (**session-based**, **OAuth2.0**, **JWT**)
+- Build a **server side logic** & realisation for **user authentication and authorization** (**session-based**, **OAuth2.0**, **JWT**)
 - Understand the value of End-to-End Protocols (**TCP\IP**), **FTP**, **RRP**, **Socket API**
 - Implementing **web communication** by **HTTP** protocol (**REST**).
 
