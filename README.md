@@ -1,4 +1,5 @@
 # CV Daria Smyr
+![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
 
 Hi there! 👋 I'm a **software developer** with passion for **server-side development** and experience in data analysis. I enjoy
 working with **Node.js** and **TypeScript**. Sure! I have a strong background in **developing web APIs (REST, GraphQL)**, working with both **relational (PostgreSQL, SQLite) and non-relational (Redis, NoDB) databases**, and implementing **scalable solutions and algorithms**. Looking for new challenges!
