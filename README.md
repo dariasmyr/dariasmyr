@@ -18,11 +18,12 @@
 <a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - Present)</em>
 
 ### Milestones
-
 - Established a NestJS Recommendations server for processing AI-generated messages and retrieving suitable items from the database, which enhanced user experience by presenting shoppable cards instead of text description, and moved the whole app recommendation process to new level. 
 - Enhanced maintainability and scalability by moving app functionality from a monolithic server to distributed servers using modularized approach.
 - Improved network traffic management, enhanced security and streamlined communication between servers by configuring Nginx as a reverse proxy in a Docker container.
 - Accomplished a 30% reduction in API response time by implementing optimized search mechanism with caching, measured through extensive performance testing (from 5-6 seconds response time to 1-1.5 second).
+- Established an server-side structure for app's admin panel website with GraphQL API and NestJS module architecture
+- Enhanced app's website security by implementing session-based authentification and authorisation mechanism (Google Oauth 2.0)
 - Achieved a 90% reduction in response time to website downtim by integrating a self-made website activity monitoring application.
 
 Stack: Node.js, TypeScript, NestJS, Nginx, PostgreSQL, Docker, Swagger, Shell scripting (Bash, Python), Linux, Git
@@ -52,7 +53,8 @@ Stack: Node.js, TypeScript, NeDB, PostgreSQL
 ## Pet-Projects
 
 ### <a href="https://jollysecrets.uxna.me" target="_new">JollySecrets</a>
-A TypeScript application for secret gift exchange. 
+A TypeScript application for secret gift exchange, with session-based authentification and authorisation mechanism (Google Oauth 2.0)
+
 
 Core libraries and techniques: TypeScript, NestJs, PostgreSQL, Graphql, React, NextJS, Zustand, Styled Components, i18n
 
