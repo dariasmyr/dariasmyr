@@ -6,8 +6,11 @@
 Telegram
 
 **Telegram** <a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
+
 **Email** <a href="dasha.smyr@gmail.com" target="_new">dasha.smyr@gmail.com
+
 **LinkedIn** <a href="https://www.linkedin.com/in/dasha-smyr-908abb192/" target="_new">https://www.linkedin.com/in/dasha-smyr-908abb192/
+
 **GitLab** <a href="https://gitlab.com/daria_smyr" target="_new">https://gitlab.com/daria_smyr
 
 ## Work experience
