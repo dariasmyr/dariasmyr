@@ -3,8 +3,6 @@
 
 ## Contact information 
 
-Telegram
-
 **Telegram** <a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
 
 **Email** <a href="dasha.smyr@gmail.com" target="_new">dasha.smyr@gmail.com
@@ -59,7 +57,7 @@ A TypeScript application for secret gift exchange.
 Core libraries and techniques: TypeScript, NestJs, PostgreSQL, Graphql, React, NextJS, Zustand, Styled Components, i18n
 
 ### Summary Bot (whitelabel)
-This Telegram bot is designed to scrape Telegram channels of your choice and send all incoming messages to your personal channel or chat. Additionally, it can generate summarized versions of each post using AI, saving you time!
+A Telegram bot which scrapes Telegram channels of your choice and send all incoming messages to your personal channel or chat. Additionally, it can generate summary of each post using Open AI API, saving you time!
 
 Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
 
@@ -75,13 +73,13 @@ Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
 
 ### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
-This TypeScript-based tool to monitor the uptime of websites and check the site status by HTTP, ping, SSL
+A TypeScript-based tool which monitors the uptime of websites and checks the site status by HTTP, ping, SSL
 certificate, and health check. Uptime Monitor uses Prisma ORM to work with the database and can send notifications to a Telegram chat.
 
 Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
 ### <a href="https://github.com/dariasmyr/data-analytics-template" target="_new">Data Analytics Template</a>
-This template provides a quick and easy solution for connecting to NeDB database, operating with data through separate
+A ready-to-use boilerplate for connecting to NeDB database, operating with data through separate
 modules, and saving results with Prisma ORM. The template is written in TypeScript and includes a logger service and
 ESlint code formatter to enhance your development experience.
 
@@ -90,30 +88,15 @@ Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jes
 ---
 
 # `⭐`Skills
-
-## `🚩` Software Development
-
-- **Node.js** (**JS** + **Typescript**) - core; **Python** - as a hobby;
-- Server-side development: **Express**, **Axious** frameworks;
-- Reverse proxy pattern (**Nginx**)
-- Highly experienced in **relational** and **non-relational** databases (SQLite, **Postgres**, NeDB);
-- Used several ORM tools - **Prisma**, Sequelize abd query-builders (like *Kysely*);
-- Can set-up auto-generated API documentation (like **Swagger**);
-- Used No-SQL (**Redis**) for **task queue handlers** (Bull jobs) and **server-side cashing**
-- Use **Jest** for **unit testing** and **ESLint**, **Prettier** for code quality;
-- Experienced in **REST/GraphQL** API development (+PostgREST);
-- Use basic **terminal commands** and implement **Bash** scripts;
-- Managed highly complicated **Docker** containerization network;
-- Basic knowledge of **Pandas (Python)** for **data analysis** and **data visualisation**;
-- Experienced in promptiong and **OpenAI API integration**;
-- **Telegram bot** development (**Telegraf**).
-
-## `🚩` Software Design & Architecture
-
-- Experienced in implementing **Database Normalisation Forms**
-- Build a **server side logic** & realisation for **user authentication and authorization** (**session-based**, **OAuth2.0**, **JWT**)
-- Understand the value of End-to-End Protocols (**TCP\IP**), **FTP**, **RRP**, **Socket API**
-- Implementing **web communication** by **HTTP** protocol (**REST**).
+- Core **JavaScript**, **Typescript**
+- Server-side development: **Node.js**, **NestJS**, **Express**, **Nginx**
+- Client-side development: **Rest**, **NextJS**, **Axious**
+- API:  **GraphQL**, **REST**, **PostgREST**; documentation: **Swagger**
+- Databases **SQLite**, **Postgres**, **NeDB**; ORM tools: **Prisma**, **Sequelize**; query-builders: **Kysely**
+- Task queue handling: **Redis**, **Bull jobs**
+- Testing: **Jest**; code-quality: **ESLint**, **Prettier**
+- Shell scripting: **Bash**, **Python**; containerization: **Docker**
+- User authentication and authorization: **session-based**, **OAuth2.0**, **JWT**
 
 ---
 
