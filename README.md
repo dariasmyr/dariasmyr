@@ -48,11 +48,9 @@ Stack: Node.js, TypeScript, NeDB, PostgreSQL
 
 ---
 
-## 🛠 Pet-Projects
+## Pet-Projects
 
-### 💻 JavaScript/TypeScript (Node.js)
-
-### JollySecrets
+### <a href="https://jollysecrets.uxna.me" target="_new">JollySecrets</a>
 A TypeScript application for secret gift exchange. 
 
 Core libraries and techniques: TypeScript, NestJs, PostgreSQL, Graphql, React, NextJS, Zustand, Styled Components, i18n
