@@ -1,109 +1,50 @@
-# CV Daria Smyr
+# Daria Smyr
 ![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
 
-Hi there! 👋 I'm a **software developer** with passion for **server-side development** and experience in data analysis. I enjoy
-working with **Node.js** and **TypeScript**. Sure! I have a strong background in **developing web APIs (REST, GraphQL)**, working with both **relational (PostgreSQL, SQLite) and non-relational (Redis, NoDB) databases**, and implementing **scalable solutions and algorithms**. Looking for new challenges!
-
-## ☎️ Contact information 
+## Contact information 
 
 Telegram
 
-<a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
+**Telegram** <a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
+**Email** <a href="dasha.smyr@gmail.com" target="_new">dasha.smyr@gmail.com
+**LinkedIn** <a href="https://www.linkedin.com/in/dasha-smyr-908abb192/" target="_new">https://www.linkedin.com/in/dasha-smyr-908abb192/
+**GitLab** <a href="https://gitlab.com/daria_smyr" target="_new">https://gitlab.com/daria_smyr
 
-📧 Email address
-
-<a href="https://www.notion.so/CV-Daria-Smyr-ef78036daaaf4dba91077abe7221f738" target="_new">dasha.smyr@gmail.com</a>
-
-🔗 LinkedIn
-
-<a href="https://www.linkedin.com/in/dasha-smyr-908abb192/" target="_new">linkedin.com/in/dasha-smyr</a>
-
-👾 GitLab
-
-<a href="https://gitlab.com/daria_smyr" target="_new">gitlab.com/daria_smyr</a>
-
-## <strong>👩🏻‍💻</strong> Work experience
+## Work experience
 
 ## Backend Developer
 
 <a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - Present)</em>
 
-<a href="https://getoutfit.ae/mobileapp" target="_new">**GetOutfit</a>** is Next-generation fashion discovery app for truly personalized shopping experience.
-
-### Responsibilities
-
-- Creating a REST interface for application interaction with PostgreSQL database.
-- Developing intermediate business logic layer with microservers.
-- Converting large CSV product catalog files.
-- Transferring a part of the Get Outfit application's clothing recommendation functionality to the server.
-
 ### Milestones
 
-- Created  a NestJS Reccommendations server for processing AI messages and providing a list of recommended items from the database (with REST API support and auto-generated Swagger documentation)
-- Moved a part of app’s functionality to the server using a system of micro-services
-- Created a REST / PostgREST interface for application interaction with microservers (dev PostgreSQL databases) + implemented functionality to update, sync, and setup dev micro-services with prod server
-- Configured Nginx as a reverse proxy in a docker container to manage traffic to multiple micro-services
+- Established a NestJS Recommendations server for processing AI-generated messages and retrieving suitable items from the database, which enhanced user experience by presenting shoppable cards instead of text description, and moved the whole app recommendation process to new level. 
+- Enhanced maintainability and scalability by moving app functionality from a monolithic server to distributed servers using modularized approach.
+- Improved network traffic management, enhanced security and streamlined communication between servers by configuring Nginx as a reverse proxy in a Docker container.
+- Accomplished a 30% reduction in API response time by implementing optimized search mechanism with caching, measured through extensive performance testing (from 5-6 seconds response time to 1-1.5 second).
+- Achieved a 90% reduction in response time to website downtim by integrating a self-made website activity monitoring application.
 
-### Stack
-
-Node.js, Nginx, PostgreSQL, Docker, Swagger, Shell scripting, Python, Git
-
+Stack: Node.js, TypeScript, NestJS, Nginx, PostgreSQL, Docker, Swagger, Shell scripting (Bash, Python), Linux, Git
 
 ## Backend Developer
 
-<a href="https://balkontracker.de" target="_new"><em><strong>Balcon Trekker</strong></em></a> - <em>(February, 2023 - Present)</em>
+<a href="https://balkontracker.de" target="_new"><em><strong>Balcon Trekker</strong></em></a> - <em>(January, 2023 - May, 2023)</em>
 
-### Responsibilities
+### Milestones
+- Laid a robust foundation for the application's functionality by creating a backend system from scratch, including database architecture, REST API, and 70% test coverage.
+- Implemented algorithms of calsulating parameters (local time by IP, sun position calculations, time formatting, tariffs and currency calculations) with optimized database queries and cashing.
 
-- Developing APIs using Node.js, TypeScript, NestJS, Prisma, and PostgreSQL.
-- Documenting APIs using Swagger.
-- Creating project infrastructure, configured Jest, DB schema, and logger.
-- Refactoring code, improved logger, and fixed bugs.
-- Adding new functionality such as dynamic routes in API response, day number in year, sun position calculation, and more.
-- Developing  Solar API with features such as return time by IP, time formatting service, and /time query API.
-- Creating a database schema, added the ability to add owners for devices, grouping devices, recording activity, and more.
-- Developing a module for updates and caching mechanisms to improve performance.
-- Working with tariffs and currency within the project.
-
-### Stack
-
-Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger
-
+Stack: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger, Linux, Git
 
 ## Data Analyst
 
-<a href="https://gyde.one/" target="_new"><em><strong>Gyde One</strong></em></a> - <em>(November 2022 - March 2023)</em>
-
-<a href="https://gyde.one/" target="_new">**Gyde One</a>** is a reputation platform that integrates APIs from various
-digital platforms, such as YouTube, Steam, and Twitch, to process user information and grant related achievements.
-
-### Responsibilities
-
-- Node.js development with TypeScript/JavaScript
-- SQL querying and analysis
-
+<a href="https://gyde.one/" target="_new"><em><strong>Gyde One</strong></em></a> - <em>(March 2022 - March 2023)</em>
 
 ### Milestones
 
-- Developed 5+ data collecting and parsing tools of various types (HTML page scrapping, API calls, etc.) and data
-  storage mechanics.
+- Eliminated manual workload by implementing Discord Servers classification tool which scrapped info about Discord servers and utilized the OpenAI API to automatically categorize each server into specific genres.
 
-## Data Analyst
-
-<em><strong><a href="https://identix.space/" target="_new">Identix Space</a></strong> – (March 2022 - October 2023)</em>
-
-<a href="https://identix.space/" target="_new"><strong>Identix.Space</strong></a> is the platform for educational quests
-for learning essential Web3 skills, creating NFTs, and using safely decentralized finance.
-
-### Responsibilities
-  
-- Wireframes and mockups
-- SQL querying and analysis
-
-
-### Milestones
-
-- Developed website elements and separate pages from the requirements perspective.
+Stack: Node.js, TypeScript, NeDB, PostgreSQL
 
 ---
 
@@ -111,50 +52,39 @@ for learning essential Web3 skills, creating NFTs, and using safely decentralize
 
 ### 💻 JavaScript/TypeScript (Node.js)
 
+### JollySecrets
+A TypeScript application for secret gift exchange. 
+
+Core libraries and techniques: TypeScript, NestJs, PostgreSQL, Graphql, React, NextJS, Zustand, Styled Components, i18n
+
 ### Summary Bot (whitelabel)
+This Telegram bot is designed to scrape Telegram channels of your choice and send all incoming messages to your personal channel or chat. Additionally, it can generate summarized versions of each post using AI, saving you time!
 
 Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
 
-This Telegram bot is designed to scrape Telegram channels of your choice and send all incoming messages to your personal channel or chat. Additionally, it can generate summarized versions of each post using AI, saving you time!
-
-
 ### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
+A boilerplate for creating reverse proxy using Nginx in a Docker environment. The reverse proxy enables routing of HTTPS connections and utilizes Let's Encrypt certificates to ensure security.
 
 Core libraries and techniques: Docker, Nginx
 
-This repo contains the necessary files to create a reverse proxy using Nginx in a Docker environment. The reverse proxy enables routing of HTTPS connections and utilizes Let's Encrypt certificates to ensure security.
-
-
 ### <a href="https://github.com/dariasmyr/mock-server" target="_new">Mock Server</a>
+A lightweight and autonomous NestJS tool which dynamically generates mock GraphQL servers based on GraphQL data schemas. It is designed to simplify the process of creating mock servers for development and testing purposes.
 
 Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
-The Mock Server is a lightweight and autonomous NestJS tool that dynamically generates mock GraphQL servers based on GraphQL data schemas. It is designed to simplify the process of creating mock servers for development and testing purposes.
 
 ### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
+This TypeScript-based tool to monitor the uptime of websites and check the site status by HTTP, ping, SSL
+certificate, and health check. Uptime Monitor uses Prisma ORM to work with the database and can send notifications to a Telegram chat.
 
 Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
-This TypeScript-based tool to monitor the uptime of websites and check the site status by HTTP, ping, SSL
-certificate, and health check. Uptime Monitor uses Prisma ORM to work with the database and can send notifications to a Telegram
-chat.
-
 ### <a href="https://github.com/dariasmyr/data-analytics-template" target="_new">Data Analytics Template</a>
-
-Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint
-
 This template provides a quick and easy solution for connecting to NeDB database, operating with data through separate
 modules, and saving results with Prisma ORM. The template is written in TypeScript and includes a logger service and
 ESlint code formatter to enhance your development experience.
 
-### 💻 Python
-
-### <a href="https://gitlab.com/daria_smyr/airbnb-explorer" target="_new">Airbnb Explorer</a>
-
-Core libraries and techniques: Pandas, NumPy, SQLAlchemy, Plotly JS, Matplotlib, Seaborn, Scikit-learn, Flask
-
-This project collects data on NYC Airbnb listings, cleans the data, and performs advanced exploratory data analysis (
-EDA). It also provides visualizations to better understand the data and a machine learning tool to predict prices.
+Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint
 
 ---
 
