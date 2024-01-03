@@ -89,7 +89,7 @@ Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jes
 
 ---
 
-# `⭐`Skills
+# Skills
 - Core **JavaScript**, **Typescript**
 - Server-side development: **Node.js**, **NestJS**, **Express**, **Nginx**
 - Client-side development: **Rest**, **NextJS**, **Axious**
@@ -102,7 +102,7 @@ Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jes
 
 ---
 
-## 🗣 Languages
+## Languages
 
 ### English 🇺🇸
 
