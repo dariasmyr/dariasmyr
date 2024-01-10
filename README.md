@@ -38,8 +38,6 @@ Stack: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger, Linux, Git
 
 <a href="https://gyde.one/" target="_new"><em><strong>Gyde One</strong></em></a> - <em>(March 2022 - March 2023)</em>
 
-### Milestones
-
 - Eliminated manual workload by implementing Discord Servers classification tool which scrapped info about Discord servers and utilized the OpenAI API to automatically categorize each server into specific genres.
 
 Stack: Node.js, TypeScript, NeDB, PostgreSQL
@@ -89,7 +87,7 @@ Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jes
 
 ## Languages
 
-### English 🇺🇸
+### English
 
 **LEVEL C1** (Exam "B2 First") – Score **181**, Cambridge University Press & Assessment English. Issued Aug 2019.
 
