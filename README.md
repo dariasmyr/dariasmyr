@@ -17,7 +17,6 @@
 
 <a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - Present)</em>
 
-### Milestones
 - Implemented NestJS Recommendations server for processing AI-generated messages and retrieving suitable items from the database, reducing API response time from 5-6 seconds to 1-1.5 seconds, significantly improving user engagement.
 - Enhanced maintainability and scalability by moving app functionality from a monolithic server to distributed servers and configuring Nginx as a reverse proxy.
 - Accomplished a 30% reduction in API response time by implementing optimized search mechanism with caching, measured through extensive performance testing (from 5-6 seconds response time to 1-1.5 second).
@@ -30,7 +29,6 @@ Stack: Node.js, TypeScript, NestJS, Nginx, Docker,  PostgreSQL, Shell scripting 
 
 <a href="https://balkontracker.de" target="_new"><em><strong>Balcon Trekker</strong></em></a> - <em>(January, 2023 - May, 2023)</em>
 
-### Milestones
 - Laid a robust foundation for the application's functionality by creating a backend system from scratch, including database architecture, REST API, and 70% test coverage.
 - Implemented algorithms of calsulating parameters (local time by IP, sun position calculations, time formatting, tariffs and currency calculations) with optimized database queries and cashing.
 
