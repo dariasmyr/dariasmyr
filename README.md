@@ -57,7 +57,7 @@ Core libraries and techniques:
 Frontend - React, NextJS, Zustand, Material Design, Styled Components
 Backend - NestJS, TypeScript, GraphQL, PostgreSQL, Docker, Nginx
 
-### Summary Bot (whitelabel)
+### <a href="https://t.me/summarifier_bot" target="_new">Summary Bot</a>
 A Telegram bot designed to scrape selected Telegram channels and forward incoming messages to your designated channel or chat. It's equipped with the ability to generate post summaries using the OpenAI API, streamlining your information consumption.
 
 Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
