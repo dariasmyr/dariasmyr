@@ -68,6 +68,11 @@ A lightweight NestJS tool that dynamically generates mock GraphQL servers based 
 
 Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
+### <a href="https://github.com/dariasmyr/ts-template" target="_new">TS Template</a>
+A TypeScript project template that provides a solid foundation for building TypeScript applications. It comes with a set of useful scripts, configurations, and development tools to streamline your development process.
+
+Core libraries and techniques: Node JS, TypeScript, Jest, Eslint
+
 ### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
 A TypeScript-based tool monitoring website uptime by performing HTTP, ping, SSL certificate, and health checks. Integrated with Prisma ORM for database interactions, it sends notifications to a Telegram chat.
 
