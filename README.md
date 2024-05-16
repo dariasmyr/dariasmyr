@@ -46,6 +46,11 @@ Stack: Node.js, TypeScript, NeDB, PostgreSQL
 
 ## Pet-Projects
 
+### <a href="https://github.com/dariasmyr/db-guard" target="_new">DB Guard</a>
+Golang project aimed at streamlining database backup procedures with automated scheduling.
+
+Core libraries and techniques: Go, Docker, Telegraf, Postgres
+
 ### <a href="https://jollysecrets.uxna.me" target="_new">JollySecrets</a>
 A comprehensive platform facilitating secret gift exchanges. This web application boasts a React frontend with adaptive design, Material Design UI, and internationalization support. The backend, developed with NestJS, communicates seamlessly with the frontend through a GraphQL API. The authentication mechanism is session-based, utilizing Google OAuth 2.0 and Telegram.
 
