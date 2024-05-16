@@ -15,7 +15,7 @@
 
 ## Backend Developer
 
-<a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - Present)</em>
+<a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - February 2024)</em>
 
 - Implemented NestJS Recommendations server for processing AI-generated messages and retrieving suitable items from the database, reducing API response time from 5-6 seconds to 1-1.5 seconds, significantly improving user engagement.
 - Enhanced maintainability and scalability by moving app functionality from a monolithic server to distributed servers and configuring Nginx as a reverse proxy.
