@@ -1,5 +1,6 @@
 # Daria Smyr
 ![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
+[![](https://github-readme-stats.vercel.app/api?username=dariasmyr)](https://github.com/dariasmyr/github-readme-stats)
 
 ## Contact information 
 
