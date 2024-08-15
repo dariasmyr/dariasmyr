@@ -15,9 +15,9 @@
 ## Pet-Projects
 
 ### <a href="https://handy.uxna.me/c" target="_new">Handy Snippets</a>
-An app for storing and sharing end-to-end encrypted notes online.c
+An app for storing and sharing end-to-end encrypted notes online. Designed based on Ant Desing kit.
 
-Core libraries and techniques: Go, Vite, Graphql, Typescript, SQLite
+Core libraries and techniques: Go, Vite, Graphql, Typescript, Ant Design, SQLite
 
 ### <a href="https://github.com/dariasmyr/db-guard" target="_new">DB Guard</a>
 Golang project aimed at streamlining database backup procedures with automated scheduling.
@@ -64,7 +64,7 @@ Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jes
 ---
 
 # Skills
-- Stack: JavaScript, Typescript, Node.js, NestJS, GraphQL, Nginx, Docker, Rest, NextJS, REST, Postgres, Bash
+- Stack: JavaScript, Typescript, Go, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
 - Soft skills: Adaptability, Problem-Solving, Research, Time Management
 ---
 
