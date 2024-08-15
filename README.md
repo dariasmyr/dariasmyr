@@ -12,40 +12,12 @@
 
 **GitLab** <a href="https://gitlab.com/daria_smyr" target="_new">https://gitlab.com/daria_smyr
 
-## Work experience
-
-## Backend Developer
-
-<a href="https://getoutfit.ae/mobileapp" target="_new"><em><strong>GetOutfit</strong></em></a> - <em>(May, 2023 - February 2024)</em>
-
-- Implemented NestJS Recommendations server for processing AI-generated messages and retrieving suitable items from the database, reducing API response time from 5-6 seconds to 1-1.5 seconds, significantly improving user engagement.
-- Enhanced maintainability and scalability by moving app functionality from a monolithic server to distributed servers and configuring Nginx as a reverse proxy.
-- Accomplished a 30% reduction in API response time by implementing optimized search mechanism with caching, measured through extensive performance testing (from 5-6 seconds response time to 1-1.5 second).
-- Established a server-side of app's admin panel website with GraphQL API and authentification mechanism (Google Oauth 2.0)
-- Achieved a 90% reduction in response time to website downtim by integrating a self-made website activity monitoring application.
-
-Stack: Node.js, TypeScript, NestJS, Nginx, Docker,  PostgreSQL, Shell scripting (Bash, Python), Linux, Git
-
-## Backend Developer
-
-<a href="https://balkontracker.de" target="_new"><em><strong>Balcon Trekker</strong></em></a> - <em>(January, 2023 - May, 2023)</em>
-
-- Laid a robust foundation for the application's functionality by creating a backend system from scratch, including database architecture, REST API, and 70% test coverage.
-- Implemented algorithms of calsulating parameters (local time by IP, sun position calculations, time formatting, tariffs and currency calculations) with optimized database queries and cashing.
-
-Stack: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger, Linux, Git
-
-## Data Analyst
-
-<a href="https://gyde.one/" target="_new"><em><strong>Gyde One</strong></em></a> - <em>(March 2022 - March 2023)</em>
-
-- Eliminated manual workload by implementing Discord Servers classification tool which scrapped info about Discord servers and utilized the OpenAI API to automatically categorize each server into specific genres.
-
-Stack: Node.js, TypeScript, NeDB, PostgreSQL
-
----
-
 ## Pet-Projects
+
+### <a href="https://handy.uxna.me/c" target="_new">Handy Snippets</a>
+An app for storing and sharing end-to-end encrypted notes online.c
+
+Core libraries and techniques: Go, Vite, Graphql, Typescript, SQLite
 
 ### <a href="https://github.com/dariasmyr/db-guard" target="_new">DB Guard</a>
 Golang project aimed at streamlining database backup procedures with automated scheduling.
