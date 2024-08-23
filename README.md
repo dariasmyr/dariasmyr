@@ -14,7 +14,7 @@
 
 ## Pet-Projects
 
-### <a href="https://handy.uxna.me/c" target="_new">Handy Snippets</a>
+### <a href="https://handy.uxna.me" target="_new">Handy Snippets</a>
 An app for storing and sharing end-to-end encrypted notes online. Designed based on Ant Desing kit.
 
 Core libraries and techniques: Go, Vite, Graphql, Typescript, Ant Design, SQLite
