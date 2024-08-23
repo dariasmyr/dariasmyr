@@ -15,44 +15,44 @@
 ## Pet-Projects
 
 ### <a href="https://handy.uxna.me" target="_new">Handy Snippets</a>
-An app for storing and sharing end-to-end encrypted notes online. Designed based on Ant Desing kit.
+An app for storing and sharing end-to-end encrypted notes online. 
 
 Core libraries and techniques: Go, Vite, Graphql, Typescript, Ant Design, SQLite
 
 ### <a href="https://github.com/dariasmyr/db-guard" target="_new">DB Guard</a>
-Golang project aimed at streamlining database backup procedures with automated scheduling.
+A utility tool for streamlining database backup procedures with automated scheduling.
 
 Core libraries and techniques: Go, Docker, Telegraf, Postgres
 
 ### <a href="https://jollysecrets.uxna.me" target="_new">JollySecrets</a>
-A comprehensive platform facilitating secret gift exchanges. This web application boasts a React frontend with adaptive design, Material Design UI, and internationalization support. The backend, developed with NestJS, communicates seamlessly with the frontend through a GraphQL API. The authentication mechanism is session-based, utilizing Google OAuth 2.0 and Telegram.
+A React web-game for secret gift exchanges.
 
 Core libraries and techniques:
 Frontend - React, NextJS, Zustand, Material Design, Styled Components
 Backend - NestJS, TypeScript, GraphQL, PostgreSQL, Docker, Nginx
 
 ### <a href="https://t.me/summarifier_bot" target="_new">Summary Bot</a>
-A Telegram bot designed to scrape selected Telegram channels and forward incoming messages to your designated channel or chat. It's equipped with the ability to generate post summaries using the OpenAI API, streamlining your information consumption.
+A Telegram bot for scraping selected Telegram channels and forward incoming messages to your designated channel or chat. Ingerdated with the OpenAI API to generate post summaries.
 
 Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf
 
 ### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
-A Docker-based boilerplate for creating a reverse proxy using Nginx. This proxy handles HTTPS connections and leverages Let's Encrypt certificates for enhanced security.
+A Docker-based boilerplate for creating a HTPS reverse proxy using Nginx (with Let's Encrypt certificates).
 
 Core libraries and techniques: Docker, Nginx
 
 ### <a href="https://github.com/dariasmyr/mock-server" target="_new">Mock Server</a>
-A lightweight NestJS tool that dynamically generates mock GraphQL servers based on GraphQL data schemas. Simplifying the creation of mock servers for development and testing purposes.
+A lightweight NestJS schema-based tool for simplyfying testing and development by dynamic generatinng mock GraphQL servers. 
 
 Core libraries and techniques: Node JS, Nest JS, GraphQL, Docker
 
 ### <a href="https://github.com/dariasmyr/ts-template" target="_new">TS Template</a>
-A TypeScript project template that provides a solid foundation for building TypeScript applications. It comes with a set of useful scripts, configurations, and development tools to streamline your development process.
+A lightweight TypeScript boilerplate for building TypeScript applications. Provides a set of useful scripts, configurations, and development tools to streamline development process.
 
 Core libraries and techniques: Node JS, TypeScript, Jest, Eslint
 
 ### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
-A TypeScript-based tool monitoring website uptime by performing HTTP, ping, SSL certificate, and health checks. Integrated with Prisma ORM for database interactions, it sends notifications to a Telegram chat.
+A TypeScript-based tool for monitoring website uptime by performing HTTP, ping, SSL certificate, and health checks. 
 
 Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf
 
