@@ -13,7 +13,7 @@
 **GitLab** <a href="https://gitlab.com/daria_smyr" target="_new">https://gitlab.com/daria_smyr
 
 # Stack
-JavaScript, Typescript, Go, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
+- JavaScript, Typescript, Go, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
 ---
 
 ## Pet-Projects
