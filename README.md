@@ -35,11 +35,6 @@ A React web-game for secret gift exchanges.
 **Frontend - React, NextJS, Zustand, Material Design, Styled Components**
 **Backend - NestJS, TypeScript, GraphQL, PostgreSQL, Docker, Nginx**
 
-### <a href="https://t.me/summarifier_bot" target="_new">Summary Bot</a>
-A Telegram bot for scraping selected Telegram channels and forward incoming messages to your designated channel or chat. Ingerdated with the OpenAI API to generate post summaries.
-
-**Core libraries and techniques: Nest JS, Redis, Postgres, Prisma, i18n, Telegraf**
-
 ### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
 A Docker-based boilerplate for creating a HTPS reverse proxy using Nginx (with Let's Encrypt certificates).
 
@@ -59,11 +54,6 @@ A lightweight TypeScript boilerplate for building TypeScript applications. Provi
 A TypeScript-based tool for monitoring website uptime by performing HTTP, ping, SSL certificate, and health checks. 
 
 **Core libraries and techniques: Node JS, TypeScript, Express, Axios, Prisma JS, PostgreSQL, Jest, Eslint, Telegraf**
-
-### <a href="https://github.com/dariasmyr/data-analytics-template" target="_new">Data Analytics Template</a>
-A TypeScript boilerplate for data analytics, including NeDB database connectivity, modular data processing, and results storage with Prisma ORM. Enhanced with a logger service and Eslint code formatting.
-
-**Core libraries and techniques: Node JS, TypeScript, NeDb, Prisma JS, SQLite, Jest, Eslint**
 
 ---
 
