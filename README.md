@@ -1,19 +1,14 @@
 # Daria Smyr
 ![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
-[![](https://github-readme-stats.vercel.app/api?username=dariasmyr)](https://github.com/dariasmyr/github-readme-stats)
 
 ## Contact information 
 
 **Telegram** <a href="https://t.me/daria_smyr" target="_new">https://t.me/daria_smyr
 
-**Email** <a href="dasha.smyr@gmail.com" target="_new">dasha.smyr@gmail.com
-
-**LinkedIn** <a href="https://www.linkedin.com/in/dasha-smyr-908abb192/" target="_new">https://www.linkedin.com/in/dasha-smyr-908abb192/
-
 **GitLab** <a href="https://gitlab.com/daria_smyr" target="_new">https://gitlab.com/daria_smyr
 
 # Stack
-- JavaScript, Typescript, Go, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
+- Go, Typescript, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
 ---
 
 ## Pet-Projects
