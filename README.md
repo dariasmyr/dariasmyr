@@ -2,7 +2,7 @@
 ![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
 
 # Stack
-- Go, Typescript, Node.js, NestJS, GraphQL, Nginx, Docker, React, Vite, NextJS, REST, Postgres, Bash
+- Go, Typescript, Node.js
 ---
 
 ## Pet-Projects
