@@ -1,12 +1,6 @@
 # Daria Smyr
 ![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
 
-# Stack
-- Go, Typescript, Node.js
----
-
-## Pet-Projects
-
 ### <a href="https://handy.uxna.me" target="_new">Handy Snippets</a>
 An app for storing and sharing end-to-end encrypted notes online. 
 
