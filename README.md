@@ -13,9 +13,6 @@ A React web-game for secret gift exchanges.
 ### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
 A Docker-based boilerplate for creating a HTPS reverse proxy using Nginx (with Let's Encrypt certificates).
 
-### <a href="https://github.com/dariasmyr/mock-server" target="_new">Mock Server</a>
-A lightweight NestJS schema-based tool for simplyfying testing and development by dynamic generatinng mock GraphQL servers. 
-
 ### <a href="https://github.com/dariasmyr/ts-template" target="_new">TS Template</a>
 A lightweight TypeScript boilerplate for building TypeScript applications. Provides a set of useful scripts, configurations, and development tools to streamline development process.
 
