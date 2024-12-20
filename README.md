@@ -10,9 +10,6 @@ A utility tool for streamlining database backup procedures with automated schedu
 ### <a href="https://jollysecrets.uxna.me" target="_new">JollySecrets</a>
 A React web-game for secret gift exchanges.
 
-### <a href="https://github.com/dariasmyr/nginx-proxy" target="_new">Nginx Proxy</a>
-A Docker-based boilerplate for creating a HTPS reverse proxy using Nginx (with Let's Encrypt certificates).
-
 ### <a href="https://github.com/dariasmyr/ts-template" target="_new">TS Template</a>
 A lightweight TypeScript boilerplate for building TypeScript applications. Provides a set of useful scripts, configurations, and development tools to streamline development process.
 
