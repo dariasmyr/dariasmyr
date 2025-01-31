@@ -10,10 +10,7 @@ A utility tool for streamlining database backup procedures with automated schedu
 ### <a href="https://jollysecrets.foxtrot-stash.ru/ru" target="_new">JollySecrets</a>
 A React web-game for secret gift exchanges.
 
-### <a href="https://github.com/dariasmyr/ts-template" target="_new">TS Template</a>
-A lightweight TypeScript boilerplate for building TypeScript applications. Provides a set of useful scripts, configurations, and development tools to streamline development process.
-
-### <a href="https://github.com/dariasmyr/uptime-monitor" target="_new">Uptime Monitor</a>
-A TypeScript-based tool for monitoring website uptime by performing HTTP, ping, SSL certificate, and health checks. 
+### <a href="https://github.com/dariasmyr/sso" target="_new">SSO Microservice</a>
+A microservice for managing users and authentication across multiple apps. 
 
 ---
