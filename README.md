@@ -3,8 +3,8 @@
 
 I build robust, scalable, and secure backend solutions. Passionate about designing high-performance systems, authentication services, and automation tools.
 
-### <a href="https://github.com/dariasmyr/sso" target="_new">SSO Microservice</a>
-A Go gRPC microservice for managing users and authentication across multiple apps (JWT + session based). 
+### <a href="https://github.com/dariasmyr/fts-hw" target="_new">Full Test Search Engine</a>
+A custom-built full-text search engine in Go with fuzzy (partial words/typos) search based on prefix trees 
 
 ### <a href="https://handy.foxtrot-stash.ru/" target="_new">Handy Snippets</a>
 An fullstack Go + React app for storing and sharing end-to-end encrypted notes online via GraphQl API. 
