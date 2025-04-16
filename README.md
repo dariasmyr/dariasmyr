@@ -1,5 +1,4 @@
 # Daria Smyr
-![](https://www.codewars.com/users/Daria%20Smyr/badges/large)
 
 I build robust, scalable, and secure backend solutions. Passionate about designing high-performance systems, authentication services, and automation tools.
 
