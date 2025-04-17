@@ -6,7 +6,7 @@ I build robust, scalable, and secure backend solutions. Passionate about designi
 A custom-built full-text search engine in Go with fuzzy (partial words/typos) search based on prefix trees 
 
 ### <a href="https://handy.foxtrot-stash.ru/" target="_new">Handy Snippets</a>
-An fullstack Go + React app for storing and sharing end-to-end encrypted notes online via GraphQl API. 
+A fullstack Go + React app for storing and sharing end-to-end encrypted notes online via GraphQl API. 
 
 ### <a href="https://github.com/dariasmyr/db-guard" target="_new">DB Guard</a>
 A Go utility tool for streamlining PostgreSQL database backup procedures with automated scheduling.
